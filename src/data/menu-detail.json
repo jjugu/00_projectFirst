@@ -1,0 +1,281 @@
+[    
+    {
+        "menuCode": 1,
+        "menuName": "럭비스프라이트",
+        "categoryName": "상의",
+        "categoryName2": "new",
+        "prdName": "럭비 스프라이트 티셔츠",
+        "menuPrice": "￦28,000",
+        "detail": {
+           "imageMain": "/images/럭비스프라이트.PNG"
+        },
+        "imageCut": [   
+            "/images/럭비스프라이트-1.PNG",
+            "/images/럭비스프라이트-2.PNG",
+            "/images/럭비스프라이트-3.PNG",
+            "/images/럭비스프라이트-4.PNG"
+        ]
+    },
+    {
+        "menuCode": 2,
+        "menuName": "스컬벨벳",
+        "categoryName": "상의",
+        "categoryName2": "new",
+        "menuPrice": "￦52,000",
+        "detail": {
+            "imageMain": "/images/스컬벨벳.PNG"
+        },
+        "imageCut": [    
+            "/images/스컬벨벳-1.PNG",
+            "/images/스컬벨벳-2.PNG",
+            "/images/스컬벨벳-3.PNG"
+        ]
+    },
+    {
+        "menuCode": 3,
+        "menuName": "신사의품격",
+        "categoryName": "하의",
+        "categoryName2": "new",
+        "menuPrice": "￦29,000",
+        "detail": {
+            "imageMain": "/images/신사의품격.PNG"
+        },
+        "imageCut": [    
+            "/images/신사의품격-1.PNG",
+            "/images/신사의품격-2.PNG",
+            "/images/신사의품격-3.PNG",
+            "/images/신사의품격-4.PNG",
+            "/images/신사의품격-5.PNG",
+            "/images/신사의품격-6.PNG"
+        ]
+    },
+    {
+        "menuCode": 4,
+        "menuName": "어반드레스",
+        "categoryName": "하의",
+        "categoryName2": "best",
+        "menuPrice": "￦57,000",
+        "detail": {
+            "imageMain": "/images/어반바지.PNG"
+        },
+        "imageCut": [    
+            "/images/어반드레스-1.PNG",
+            "/images/어반드레스-2.PNG",
+            "/images/어반드레스-3.PNG",
+            "/images/어반드레스-4.PNG",
+            "/images/어반드레스-5.PNG",
+            "/images/어반드레스-6.PNG",
+            "/images/어반드레스-7.PNG"
+        ]
+    },
+    {
+        "menuCode": 5,
+        "menuName": "타마진스",
+        "categoryName": "하의",
+        "categoryName2": "best",
+        "menuPrice": "￦17,000",
+        "detail": {
+            "imageMain": "/images/타마진스.PNG"
+        },
+        "imageCut":[
+            "/images/타마진스-1.PNG",
+            "/images/타마진스-2.PNG",
+            "/images/타마진스-3.PNG",
+            "/images/타마진스-4.PNG",
+            "/images/타마진스-5.PNG",
+            "/images/타마진스-6.PNG"
+        ]
+    },
+    {
+        "menuCode": 6,
+        "menuName": "홀리뱅기모후드",
+        "categoryName": "상의",
+        "categoryName2": "best",
+        "menuPrice": "￦39,000",
+        "detail": {
+            "imageMain": "/images/홀리뱅기모후드.PNG"
+        },
+        "imageCut": [
+            "/images/홀리뱅기모후드-1.PNG",
+            "/images/홀리뱅기모후드-2.PNG",
+            "/images/홀리뱅기모후드-3.PNG",
+            "/images/홀리뱅기모후드-4.PNG",
+            "/images/홀리뱅기모후드-5.PNG",
+            "/images/홀리뱅기모후드-6.PNG",
+            "/images/홀리뱅기모후드-7.PNG",
+            "/images/홀리뱅기모후드-8.PNG"
+        ]
+    },
+    {
+        "menuCode": 7,
+        "menuName": "아라모드 캐시 피니싱 니트",
+        "categoryName": "상의",
+        "categoryName2": "new",
+        "menuPrice": "￦19,000",
+        "detail": {
+            "imageMain": "/images/아라모드 캐시 피니싱1.PNG"
+        },
+        "imageCut":[    
+             "/images/아라모드 캐시 피니싱2.PNG",
+            "/images/아라모드 캐시 피니싱3.PNG",
+            "/images/아라모드 캐시 피니싱4.PNG"
+        ]
+    },
+    {
+        "menuCode": 8,
+        "menuName": "터키쉬블루 퍼피자수 울 니트",
+        "categoryName" : "상의",
+        "categoryName2" : "new",
+        "menuPrice": "￦160,300",
+        "detail": {
+            "imageMain": "/images/터키쉬블루 퍼피자수 울 니트1.PNG"
+        },
+        "imageCut":[   
+            "/images/터키쉬블루 퍼피자수 울 니트2.PNG",
+            "/images/터키쉬블루 퍼피자수 울 니트3.PNG",
+            "/images/터키쉬블루 퍼피자수 울 니트4.PNG",
+            "/images/터키쉬블루 퍼피자수 울 니트5.PNG",
+            "/images/터키쉬블루 퍼피자수 울 니트6.PNG",
+            "/images/터키쉬블루 퍼피자수 울 니트7.PNG"
+        ]
+    },
+    {
+        "menuCode": 9,
+        "menuName": "오렌지 퍼피자수 울캐시미어 케이블",
+        "categoryName": "상의",
+        "categoryName2": "best",
+        "menuPrice": "￦174,300",
+        "detail": {
+            "imageMain": "/images/오렌지 퍼피자수 울캐시미어 케이블1.PNG"
+        },
+        "imageCut": [
+            "/images/오렌지 퍼피자수 울캐시미어 케이블2.PNG",
+            "/images/오렌지 퍼피자수 울캐시미어 케이블3.PNG",
+            "/images/오렌지 퍼피자수 울캐시미어 케이블4.PNG",
+            "/images/오렌지 퍼피자수 울캐시미어 케이블5.PNG"
+        ]
+    },
+    {
+        "menuCode": 10,
+        "menuName": "블루 그래픽 수피마 코튼 티셔츠",
+        "categoryName": "상의",
+        "categoryName2": "best",
+        "menuPrice": "￦28,000",
+        "detail": {
+            "imageMain": "/images/블루 그래픽 수피마 코튼 티셔츠1.PNG"
+        },
+        "imageCut": [     
+            "/images/블루 그래픽 수피마 코튼 티셔츠2.PNG",
+            "/images/블루 그래픽 수피마 코튼 티셔츠3.PNG",
+            "/images/블루 그래픽 수피마 코튼 티셔츠4.PNG",
+            "/images/블루 그래픽 수피마 코튼 티셔츠5.PNG",
+            "/images/블루 그래픽 수피마 코튼 티셔츠6.PNG",
+            "/images/블루 그래픽 수피마 코튼 티셔츠7.PNG",
+            "/images/블루 그래픽 수피마 코튼 티셔츠8.PNG"
+
+        ]
+    },
+    {
+        "menuCode": 11,
+        "menuName": "아이보리 보이 클럽 티셔츠",
+        "categoryName": "상의",
+        "categoryName2": "new",
+        "menuPrice": "￦37,260",
+        "detail": {
+            "imageMain": "/images/아이보리 보이 클럽 티셔츠1.PNG"
+        },
+        "imageCut": [    
+            "/images/아이보리 보이 클럽 티셔츠2.PNG",
+            "/images/아이보리 보이 클럽 티셔츠3.PNG",
+            "/images/아이보리 보이 클럽 티셔츠4.PNG",
+            "/images/아이보리 보이 클럽 티셔츠5.PNG",
+            "/images/아이보리 보이 클럽 티셔츠6.PNG"
+        ]
+    },
+    {
+        "menuCode": 12,
+        "menuName": "스트레이트핏기모 캐주얼 팬츠",
+        "categoryName": "하의",
+        "categoryName2": "new",
+        "menuPrice": "￦139,300",
+        "detail": {
+            "imageMain": "/images/스트레이트핏기모 캐주얼 팬츠1.PNG"
+        },
+        "imageCut": [
+            "/images/스트레이트핏기모 캐주얼 팬츠2.PNG",
+            "/images/스트레이트핏기모 캐주얼 팬츠3.PNG",
+            "/images/스트레이트핏기모 캐주얼 팬츠4.PNG",
+            "/images/스트레이트핏기모 캐주얼 팬츠5.PNG",
+            "/images/스트레이트핏기모 캐주얼 팬츠6.PNG",
+            "/images/스트레이트핏기모 캐주얼 팬츠7.PNG"
+        ]
+    },
+    {
+        "menuCode": 13,
+        "menuName": "블랙 히든밴딩 썸머 슬랙스",
+        "categoryName": "하의",
+        "categoryName2": "best",
+        "menuPrice": "￦59,500",
+        "detail": {
+            "imageMain": "/images/블랙 히든밴딩 썸머 슬랙스1.PNG"
+        },
+        "imageCut": [
+            "/images/블랙 히든밴딩 썸머 슬랙스2.PNG",
+            "/images/블랙 히든밴딩 썸머 슬랙스3.PNG",
+            "/images/블랙 히든밴딩 썸머 슬랙스4.PNG",
+            "/images/블랙 히든밴딩 썸머 슬랙스5.PNG"
+        ]
+    },
+    {
+        "menuCode": 14,
+        "menuName": "Kulte 남성 코듀로이 팬츠",
+        "categoryName": "하의",
+        "categoryName2": "best",
+        "menuPrice": "￦61,200",
+        "detail": {
+            "imageMain": "/images/Kulte 남성 코듀로이 팬츠1.PNG"
+        },
+        "imageCut": [
+            "/images/Kulte 남성 코듀로이 팬츠2.PNG",
+            "/images/Kulte 남성 코듀로이 팬츠3.PNG",
+            "/images/Kulte 남성 코듀로이 팬츠4.PNG",
+            "/images/Kulte 남성 코듀로이 팬츠5.PNG",
+            "/images/Kulte 남성 코듀로이 팬츠6.PNG",
+            "/images/Kulte 남성 코듀로이 팬츠7.PNG",
+            "/images/Kulte 남성 코듀로이 팬츠8.PNG"
+        ]
+    },
+    {
+        "menuCode": 15,
+        "menuName": "지오다노 여 풀밴드 슬림스트레이트 팬츠",
+        "categoryName": "하의",
+        "categoryName2": "new",
+        "menuPrice": "￦37,260",
+        "detail": {
+            "imageMain": "/images/지오다노 여 풀밴드 슬림스트레이트 팬츠1.PNG"
+        },
+        "imageCut": [
+            "/images/지오다노 여 풀밴드 슬림스트레이트 팬츠2.PNG",
+            "/images/지오다노 여 풀밴드 슬림스트레이트 팬츠3.PNG",
+            "/images/지오다노 여 풀밴드 슬림스트레이트 팬츠4.PNG",
+            "/images/지오다노 여 풀밴드 슬림스트레이트 팬츠5.PNG"
+        ]  
+        
+    },
+    {
+        "menuCode": 16,
+        "menuName": "6포켓 기모 데님 팬츠 (스트레이트핏)",
+        "categoryName": "하의",
+        "categoryName2": "best",
+        "menuPrice": "￦37,260",
+        "detail": {
+            "imageMain": "/images/6포켓 기모 데님 팬츠 (스트레이트핏)1.PNG"
+        },
+        "imageCut": [    
+            "/images/6포켓 기모 데님 팬츠 (스트레이트핏)2.PNG",
+            "/images/6포켓 기모 데님 팬츠 (스트레이트핏)3.PNG",
+            "/images/6포켓 기모 데님 팬츠 (스트레이트핏)4.PNG",
+            "/images/6포켓 기모 데님 팬츠 (스트레이트핏)5.PNG"
+    ]
+    }
+]

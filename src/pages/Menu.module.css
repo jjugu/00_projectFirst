@@ -1,0 +1,9 @@
+.MenuBox div {
+    display: inline-block;
+    margin: 5px;
+}
+
+.cardContainer{
+    width: 1450px;
+    margin-left: 430px;
+}

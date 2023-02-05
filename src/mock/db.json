@@ -1,0 +1,14 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "password": "admin",
+      "nickname": "관리자"
+    },
+    {
+      "id": "cat",
+      "password": "cat",
+      "nickname": "cat"
+    }
+  ]
+}

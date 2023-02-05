@@ -1,0 +1,68 @@
+.wrap {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.loginbox {
+   
+    border: 1px solid white;
+    width: 500px;
+    height: 500px;
+   
+   
+}
+
+.idpw {
+    
+    width: 492px;
+    height: 50px;
+    border: 3px solid rgb(179, 187, 27);
+    color: black;
+}
+
+#loginButton {
+    width: 500px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+
+#checkStyle {
+    margin-left: 110px;
+}
+
+
+#text1 {
+    margin-left: 40px;
+    font-size: 20px;
+    color: blue;
+}
+
+#idpwfind {
+    font-size: 12px;
+    color: brown;
+}
+
+#loginText {
+    color: brown;
+}
+
+.joinbox{
+    border: 3px solid pink;
+    padding: 20px;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+label{
+    margin-right: 8px;
+    font-weight: bolder;
+}
+
+.welcomeWord{
+    font-size: 30px;
+    font-weight: bolder;
+}
